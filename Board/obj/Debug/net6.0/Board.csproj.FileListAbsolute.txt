@@ -1,0 +1,12 @@
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/bin/Debug/net6.0/Board.deps.json
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/bin/Debug/net6.0/Board.dll
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/bin/Debug/net6.0/Board.pdb
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/Board.csproj.AssemblyReference.cache
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/Board.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/Board.AssemblyInfoInputs.cache
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/Board.AssemblyInfo.cs
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/Board.csproj.CoreCompileInputs.cache
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/Board.dll
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/refint/Board.dll
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/Board.pdb
+/Users/mrshrimp.it/RiderProjects/TicTacToe/Board/obj/Debug/net6.0/ref/Board.dll
